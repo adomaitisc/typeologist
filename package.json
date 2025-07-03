@@ -1,0 +1,30 @@
+{
+  "name": "typeologist",
+  "version": "1.0.0",
+  "description": "Extract font files from websites with a beautiful CLI",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "typeologist": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "font",
+    "extractor",
+    "web-scraping",
+    "typography"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "jsdom": "^22.1.0",
+    "@clack/prompts": "^0.7.0",
+    "picocolors": "^1.0.0",
+    "mri": "^1.2.0"
+  }
+}
