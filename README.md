@@ -10,15 +10,16 @@ Extract font files from websites via the command line.
 git clone https://github.com/adomaitisc/typeologist.git
 cd typeologist
 npm install
+npm link
 ```
 
 2. Run the CLI:
 
 ```bash
-node index.js -u https://example.com -f all
+typeologist -u https://example.com -f all
 ```
 
-See `node index.js --help` for all options.
+See `typeologist --help` for all options.
 
 ## Addendum
 

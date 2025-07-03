@@ -1,7 +1,7 @@
 {
   "name": "typeologist",
-  "version": "1.0.0",
-  "description": "Extract font files from websites with a beautiful CLI",
+  "version": "0.0.1",
+  "description": "Free fonts for all.",
   "main": "index.js",
   "type": "module",
   "bin": {
@@ -18,7 +18,7 @@
     "web-scraping",
     "typography"
   ],
-  "author": "",
+  "author": "Cauã Adomaitis",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^3.3.2",
