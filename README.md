@@ -23,4 +23,4 @@ See `typeologist --help` for all options.
 
 ## Addendum
 
-**Note:** The core library used for the multiselect feature currently does not support scrolling and full views. This may affect usability when dealing with large lists. We are tracking this limitation and will update the tool when upstream support is available.
+**Note:** The core library used for the multiselect feature currently does not support scrolling and full views. This may affect usability when dealing with large lists. I am tracking this limitation and will update the tool when upstream support is available.
